@@ -2,9 +2,9 @@
 
 import logo from "../assets/icl.png";
 
-export default function Header() {
+export default function Hedr() {
   return (
-    <header>
+    <header id="header">
       <img src={logo} alt="AssAndPussy" />
       <h1>PantySniffing</h1>
     </header>

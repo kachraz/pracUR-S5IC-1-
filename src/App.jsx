@@ -1,8 +1,8 @@
-import Header from "./co/Header.jsx";
+import Hedr from "./co/Header";
 
 function App() {
-  return <h1>React PantySniffing</h1>;
-  <Header />;
+  return <Hedr />;
+  <h1>Wonfa</h1>;
 }
 
 export default App;
