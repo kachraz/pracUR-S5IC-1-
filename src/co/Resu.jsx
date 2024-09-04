@@ -5,5 +5,5 @@ Results component -
 
 export default function Resu({ input }) {
   console.log(input);
-  return <p>Res</p>;
+  return <p>RePANTYs</p>;
 }
