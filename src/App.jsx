@@ -1,8 +1,13 @@
 import Hedr from "./co/Header";
+import UsIn from "./co/UsIn";
 
 function App() {
-  return <Hedr />;
-  <h1>Wonfa</h1>;
+  return (
+    <>
+      <Hedr />;
+      <UsIn />
+    </>
+  );
 }
 
 export default App;
