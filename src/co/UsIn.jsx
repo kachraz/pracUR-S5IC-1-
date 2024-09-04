@@ -4,7 +4,7 @@ import { useState } from "react";
 
 export default function UsIn() {
   const [userInput, setUserInput] = useState({
-    initialInvestment: 10000,
+    initialInvestment: 1000,
     annualInvestment: 1200,
     expectedReturn: 6,
     duration: 10,
